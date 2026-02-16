@@ -124,3 +124,4 @@ D:\Downloads\CW\library-management-system\backend\LibraryApi\obj\Debug\net8.0\re
 D:\Downloads\CW\library-management-system\backend\LibraryApi\obj\Debug\net8.0\LibraryApi.pdb
 D:\Downloads\CW\library-management-system\backend\LibraryApi\obj\Debug\net8.0\LibraryApi.genruntimeconfig.cache
 D:\Downloads\CW\library-management-system\backend\LibraryApi\obj\Debug\net8.0\ref\LibraryApi.dll
+D:\Downloads\CW\library-management-system\backend\LibraryApi\obj\Debug\net8.0\LibraryApi.sourcelink.json
