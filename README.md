@@ -2,8 +2,11 @@
 
 A modern, full-stack Library Management System built with **ASP.NET Core Web API** (Backend) and **React + TypeScript** (Frontend) with **Tailwind CSS**. This project was developed as part of a Software Engineering Internship assignment.
 
+---
+
 ## 🎥 Demo Video
-<video src="video.mp4" width="100%" controls></video>
+
+https://github.com/user-attachments/assets/fb7c704a-4cef-488f-8308-c8591dd1a630
 
 ---
 
@@ -56,7 +59,7 @@ library-management-system/
 │   │   └── main.tsx              # Entry Point
 │   ├── tailwind.config.js        # UI Styling Config
 │   └── vite.config.ts            # Build Tool Config
-└── report_template.md            # Template for candidate report
+└── Report.pdf                    # Project Report
 ```
 
 ---
@@ -84,6 +87,6 @@ The backend exposes a RESTful API for book management:
 
 ---
 
-## ⚖️ License
-This project is for educational/assessment purposes only.
+## 📄 License & Contact
 
+MIT © 2026 [Yashith Chandeepa](https://github.com/yashith03)
