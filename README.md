@@ -6,7 +6,8 @@ A modern, full-stack Library Management System built with **ASP.NET Core Web API
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/yashith03/Simple-Library-Management-System/raw/main/video.mp4" width="100%" controls></video>
+https://github.com/user-attachments/assets/c9823a81-266c-4be7-a850-4083337166f7
+
 
 ---
 
