@@ -3,7 +3,7 @@
 A modern, full-stack Library Management System built with **ASP.NET Core Web API** (Backend) and **React + TypeScript** (Frontend) with **Tailwind CSS**. This project was developed as part of a Software Engineering Internship assignment.
 
 ## 🎥 Demo Video
-![Library Management System Demo](video.mp4)
+<video src="video.mp4" width="100%" controls></video>
 
 ---
 
